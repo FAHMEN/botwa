@@ -57,7 +57,7 @@ global.packname = 'By fahril' // ganti aja
 global.author = 'fahrilbotz' // ganti aja
 
 //yyy
-bc = 'AlyaaXzy' //AlyaaXy Broadcast
+bc = 'fahrilbotz' //fahrilbotz Broadcast
 footer = '\n©fahrilahmad'
 namabot = 'fahrilbotz'
 namalu = 'fahril'
